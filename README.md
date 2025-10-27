@@ -35,7 +35,4 @@
 ### Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=risin-ril&color=blueviolet)
 
-### Trophy Case
-![Trophies](https://github-profile-trophy.vercel.app/?username=risin-ril&theme=darkhub&row=1)
-
 </div>
