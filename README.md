@@ -1,9 +1,7 @@
 # risin-ril's GitHub Stats
 
 <div align="center">
-
-<img src="https://github.com/risin-ril.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=risin-ril&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=risin-ril&theme=radical)
